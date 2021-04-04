@@ -1,8 +1,10 @@
 # sdc.tmLanguage.json
 
-The tmLanguage file for SDC (Synopsys Design Constraints) syntax.  
+The tmLanguage file for SDC (Synopsys Design Constraints) syntax highlighting.  
 It can be used for XDC (Xilinx Design Constraints) files.  
 It would also work for standard Tcl scripts.  
+
+This syntax highlighting is available in the Visual Studio Code [Verilog-HDL/SystemVerilog/Bluespec SystemVerilog](https://marketplace.visualstudio.com/items?itemName=mshr-h.VerilogHDL) extension. 
 
 
 ## References
